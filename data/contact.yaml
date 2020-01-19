@@ -13,9 +13,7 @@ email:
   icon-pack: "fas"
 
 social:
-- icon: "fa-linkedin"
-  icon_pack: "fab"
-  link: "//linkedin.com"
+
 - icon: "fa-github"
   icon_pack: "fab"
   link: "https://github.com/ttn-freiburg"
