@@ -2,11 +2,13 @@
 title: "CONTACT"
 background_image: "contact.jpg"
 photo: "user-tie.png"
-description: "Contact us."
+description: "Feel free to contact us or follow us on twitter."
 
 email:
   address: "info@ttn-freiburg.de"
-  link: mailto:info@ttn-freiburg.de
+  # bitte diese Adresse einrichten als Weiterleitung
+  link: false
+  #ggf hier mailto:info@ttn-freiburg.de
   icon: "fa-envelope"
   icon-pack: "fas"
 
@@ -14,11 +16,21 @@ social:
 
 - icon: "fa-github"
   icon_pack: "fab"
-  link: "//github.com/ttn-freiburg/"
- - icon: "fa-linkedin"
+  link: "https://github.com/ttn-freiburg"
+- icon: "fa-github"
+#twitter icon einfpgen
   icon_pack: "fab"
-  link: "//twitter.com/ttn_freiburg"
-- icon: "slack"
+  link: "https://twitter.com/ttn_freiburg"
+- icon: "fa-github"
+#fb icon einfuegen
   icon_pack: "fab"
-  link: "//linkedin.com"
+  link: "https://"
+- icon: "fa-github"
+#slack Icon
+  icon_pack: "fab"
+  link: "https://slack"
+- icon: "fa-github"
+#instagramm icon einfpgen
+  icon_pack: "fab"
+  link: "https://instagram.com/ttn_freiburg"
 ---
