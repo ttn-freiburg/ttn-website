@@ -5,17 +5,17 @@ background_image: "services.jpg"
 # List of services.
 # Optional "text", "icon_pack" & "list"
 services:
-- name: "Service 1"
+- name: "Community events"
   icon: "fa-chalkboard-teacher"
   icon_pack: "fas"
-  list: [ "One thing", "Another thing", "And some more ..." ]
-- name: "Service 2"
+  list: [ "Stammtisch", "regulary meetings", "And some more ..." ]
+- name: "Workshops"
   icon: "fa-window-restore"
   icon_pack: "fas"
-  text: "I am also able to do this."
-- name: "Service 3"
+  text: "Occasionaly we hold workshops to build Internet enabled Things such as geigercounters, PaxCounters or more."
+- name: "Advice"
   icon: "fa-concierge-bell"
   icon_pack: "fas"
   text: "And this:"
-  list: [ "Sub service 1", "Sub service 2" ]
+  list: [ "Advice to cities on how to install and run a TTN Network", "Lobbying for more coverage", "Advice on how to set up a community", "Advice on how to set up Gateways" ]
 ---
