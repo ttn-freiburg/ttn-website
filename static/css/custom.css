@@ -9,6 +9,7 @@
     --TITLE-FONT: var(--GENERAL-FONT-2);
 
     /* HOME */
-    --HOME-TEXT-COLOR: rgb(200, 200, 200);
+    --HOME-TEXT-COLOR: rgb(255, 255, 255);
+	--HOME-TITLE-COLOR: rgb(0, 0, 0);
 
 }

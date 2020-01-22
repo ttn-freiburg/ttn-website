@@ -1,7 +1,7 @@
 ---
 title: "CONTACT"
 background_image: "contact.jpg"
-photo: "user-tie.png"
+photo: "user-tie.jpg"
 description: "Feel free to contact us or follow us on twitter."
 
 email:
@@ -17,20 +17,10 @@ social:
 - icon: "fa-github"
   icon_pack: "fab"
   link: "https://github.com/ttn-freiburg"
-- icon: "fa-github"
-#twitter icon einfpgen
+- icon: "fa-twitter"
   icon_pack: "fab"
   link: "https://twitter.com/ttn_freiburg"
-- icon: "fa-github"
-#fb icon einfuegen
+- icon: "fa-slack"
   icon_pack: "fab"
-  link: "https://"
-- icon: "fa-github"
-#slack Icon
-  icon_pack: "fab"
-  link: "https://slack"
-- icon: "fa-github"
-#instagramm icon einfpgen
-  icon_pack: "fab"
-  link: "https://instagram.com/ttn_freiburg"
+  link: "https://join.slack.com/t/ttn-freiburg/shared_invite/enQtMzA1NDgzODY4NjE1LTZiYWIxZWE5YTA5ODIzZDRmMjQ4NWQ2NjZjYjkzYjg4YWRiNjI0YWNmNDVmNGZmMjk2ZGUyMTJiZjhiYjI3ZjQ"
 ---

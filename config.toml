@@ -29,7 +29,7 @@ theme = "myportfolio"
     # HOMEPAGE
     # Define the sections and the order in which they appear (MANDATORY)
     [params.homepage]
-        sections = [ "home", "about", "contact" ]
+        sections = [ "home", "about", "services", "contact" ]
 
     # ----------
 
@@ -63,6 +63,8 @@ theme = "myportfolio"
         # (& must correspond to the section directories)
         [params.navigation.links]
             about    = "ABOUT"
+            services = "SERVICES"
+            skills   = "SKILLS"
             contact  = "CONTACT"
 
     # ----------
